@@ -98,11 +98,7 @@ body {
 #HomepageBody {
     background-image: url('../Backgrounds/PHBBackground.webp');
     background-repeat: no-repeat;
-    background-size: 150% 215%;
-    min-height: 100vh;
-    min-width: 100vw;
-    height: 100vh;
-    width: 100vw;
+    background-size: cover;
   }
 }
 #WorldBody {
@@ -115,11 +111,7 @@ body {
   #WorldBody {
     background-image: url('../Backgrounds/PHBBackground.webp');
     background-repeat: no-repeat;
-    background-size: 150% 100%;
-    min-height: 100vh;
-    min-width: 100vw;
-    height: 50vh;
-    width: 100vw;
+    background-size: cover;
   }
 }
 #InenianTetrarchyBody {
@@ -132,11 +124,7 @@ body {
   #InenianTetrarchyBody {
     background-image: url('../Backgrounds/PHBBackground.webp');
     background-repeat: no-repeat;
-    background-size: 150% 100%;
-    min-height: 100vh;
-    min-width: 100vw;
-    height: 50vh;
-    width: 100vw;
+    background-size: cover;
   }
 }
 #LocationInformationBody {
@@ -150,10 +138,6 @@ body {
     background-image: url('../Backgrounds/MMBackground.webp');
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 100vh;
-    min-width: 100vw;
-    height: 100vh;
-    width: 100vw;
   }
 }
 #BestiaryBody {
@@ -167,11 +151,7 @@ body {
   #BestiaryBody {
     background-image: url('../Backgrounds/MMBackground.webp');
     background-repeat: no-repeat;
-    background-size: 150% 150%;
-    min-height: 100vh;
-    min-width: 100vw;
-    height: 100vh;
-    width: 100vw;
+    background-size: cover;
   }
 }
 #SpellBody {
@@ -185,10 +165,7 @@ body {
     background-image: url('../Backgrounds/PHBBackground.webp');
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 100vw;
-    min-width: 100vw;
-    height: 100vw;
-    width: 100vw;
+
   }
 }
 /*Nav*/
