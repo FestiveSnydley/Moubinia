@@ -1,0 +1,1862 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Casting Time</title>
+<link rel="stylesheet" type="text/css" href="../CCS/mystyle.css">
+</head>
+<body id="SpellBody">
+<nav> <a href="../Homepage.html">Home</a> |<a href="../Bestiary/DefaultBestiary.html">Bestiary</a> |<a href="../World/Locations.html">Locations</a> |<a href="../Equipment/Equipment.html">Equipment</a> |<a href="../Magical_Items/Magical_Items.html">Magical Items</a> |Spells </nav>
+<h1 id="Spells">Spells</h1>
+<h2>More spells will be added over time and as the party levels up<br>
+  <br>
+</h2>
+<p>Click on a heading to change how the table is sorted.</p>
+<table class="center">
+  <!-- Magical Item Table Heading -->
+  <tr>
+    <th><a href="Spells.html">Level</a></th>
+    <th><a href="Spell_Name.html">Spell Name</a></th>
+    <th>Casting Time</th>
+    <th><a href="Spell_School.html">School of Magic</a></th>
+    <th>Concentration</th>
+    <th>Ritual</th>
+  </tr>
+  <!-- Reaction --> 
+  <!-- Absorb Elements -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Abjuration/Absorb_Elements.html" target="_blank">Absorb Elements</a></td>
+    <td>1 Reaction</td>
+    <td>Abjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Feather Fall -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Transmutation/Feather_Fall.html" target="_blank">Feather Fall</a></td>
+    <td>1 Reaction</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Hellish Rebuke -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Evocation/Hellish_Rebuke.html" target="_blank">Hellish Rebuke</a></td>
+    <td>1 Reaction</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Shield -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Abjuration/Shield.html" target="_blank">Shield</a></td>
+    <td>1 Reaction</td>
+    <td>Abjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Bonus Action --> 
+  <!-- Magic Stone -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Transmutation/Magic_Stone.html" target="_blank">Magic Stone</a></td>
+    <td>1 Bonus Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Shillelagh -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Transmutation/Shillelagh.html" target="_blank">Shillelagh</a></td>
+    <td>1 Bonus Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Compelled Duel -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Enchantment/Compelled_Duel.html" target="_blank">Compelled Duel</a></td>
+    <td>1 Bonus Action</td>
+    <td>Enchantment</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Divine Favor -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Evocation/Divine_Favor.html" target="_blank">Divine Favor</a></td>
+    <td>1 Bonus Action</td>
+    <td>Evocation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Ensnaring Strike -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Conjuration/Ensnaring_Strike.html" target="_blank">Ensnaring Strike</a></td>
+    <td>1 Bonus Action</td>
+    <td>Conjuration</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Expeditious Retreat -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Transmutation/Expeditious_Retreat.html" target="_blank">Expeditious Retreat</a></td>
+    <td>1 Bonus Action</td>
+    <td>Transmutation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Hail of Thorns -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Conjuration/Hail_of_Thorns.html" target="_blank">Hail of Thorns</a></td>
+    <td>1 Bonus Action</td>
+    <td>Conjuration</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Healing Word -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Evocation/Healing_Word.html" target="_blank">Healing Word</a></td>
+    <td>1 Bonus Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Hex -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Enchantment/Hex.html" target="_blank">Hex</a></td>
+    <td>1 Bonus Action</td>
+    <td>Enchantment</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Hunter's Mark -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Divination/Hunter's_Mark.html" target="_blank">Hunter's Mark</a></td>
+    <td>1 Bonus Action</td>
+    <td>Divination</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Sanctuary -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Abjuration/Sanctuary.html" target="_blank">Sanctuary</a></td>
+    <td>1 Bonus Action</td>
+    <td>Abjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Searing Smite -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Evocation/Searing_Smite.html" target="_blank">Searing Smite</a></td>
+    <td>1 Bonus Action</td>
+    <td>Evocation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Shield of Faith -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Abjuration/Shield_of_Faith.html" target="_blank">Shield of Faith</a></td>
+    <td>1 Bonus Action</td>
+    <td>Abjuration</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Thunderous Smite -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Evocation/Thunderous_Smite.html" target="_blank">Thunderous Smite</a></td>
+    <td>1 Bonus Action</td>
+    <td>Evocation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Wrathful Smite -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Evocation/Wrathful_Smite.html" target="_blank">Wrathful Smite</a></td>
+    <td>1 Bonus Action</td>
+    <td>Evocation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Zephyr Strike -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Transmutation/Zephyr_Strike.html" target="_blank">Zephyr Strike</a></td>
+    <td>1 Bonus Action</td>
+    <td>Transmutation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Branding Smite -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Evocation/Branding_Smite.html" target="_blank">Branding Smite</a></td>
+    <td>1 Bonus Action</td>
+    <td>Evocation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Dragon's Breath -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Transmutation/Dragon's_Breath.html" target="_blank">Dragon's Breath</a></td>
+    <td>1 Bonus Action</td>
+    <td>Transmutation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Flame Blade -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Evocation/Flame_Blade.html" target="_blank">Flame Blade</a></td>
+    <td>1 Bonus Action</td>
+    <td>Evocation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Healing Spirit -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Conjuration/Healing_Spirit.html" target="_blank">Healing Spirit</a></td>
+    <td>1 Bonus Action</td>
+    <td>Conjuration</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Magic Weapon -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Transmutation/Magic_Weapon.html" target="_blank">Magic Weapon</a></td>
+    <td>1 Bonus Action</td>
+    <td>Transmutation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Misty Step -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Conjuration/Misty_Step.html" target="_blank">Misty Step</a></td>
+    <td>1 Bonus Action</td>
+    <td>Conjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Shadow Blade -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Illusion/Shadow_Blade.html" target="_blank">Shadow Blade</a></td>
+    <td>1 Bonus Action</td>
+    <td>Illusion</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Spiritual Weapon -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Evocation/Spiritual_Weapon.html" target="_blank">Spiritual Weapon</a></td>
+    <td>1 Bonus Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Action --> 
+  <!-- Acid Splash -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Conjuration/Acid_Splash.html" target="_blank">Acid Splash</a></td>
+    <td>1 Action</td>
+    <td>Conjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Blade Ward -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Abjuration/Blade_Ward.html" target="_blank">Blade Ward</a></td>
+    <td>1 Action</td>
+    <td>Abjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Booming Blade -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Evocation/Booming_Blade.html" target="_blank">Booming Blade</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Chill Touch -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Necromancy/Chill_Touch.html" target="_blank">Chill Touch</a></td>
+    <td>1 Action</td>
+    <td>Necromancy</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Control Flames -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Transmutation/Control_Flames.html" target="_blank">Control Flames</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Create Bonfire -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Conjuration/Create_Bonfire.html" target="_blank">Create Bonfire</a></td>
+    <td>1 Action</td>
+    <td>Conjuration</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Dancing Lights -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Evocation/Dancing_Lights.html" target="_blank">Dancing Lights</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Dawnbrand -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Evocation/Dawnbrand.html" target="_blank">Dawnbrand</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Druidcraft -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Transmutation/Druidcraft.html" target="_blank">Druidcraft</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Eldritch Blast -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Evocation/Eldritch_Blast.html" target="_blank">Eldritch Blast</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Fire Bolt -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Evocation/Fire_Bolt.html" target="_blank">Fire Bolt</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Friends -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Enchantment/Friends.html" target="_blank">Friends</a></td>
+    <td>1 Action</td>
+    <td>Enchantment</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Frostbite -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Evocation/Frostbite.html" target="_blank">Frostbite</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Green-Flame Blade -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Evocation/Green-Flame_Blade.html" target="_blank">Green-Flame Blade</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Guidance -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Divination/Guidance.html" target="_blank">Guidance</a></td>
+    <td>1 Action</td>
+    <td>Divination</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Gust -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Transmutation/Gust.html" target="_blank">Gust</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Infestation -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Conjuration/Infestation.html" target="_blank">Infestation</a></td>
+    <td>1 Action</td>
+    <td>Conjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Light -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Evocation/Light.html" target="_blank">Light</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Lightning Lure -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Evocation/Lightning_Lure.html" target="_blank">Lightning Lure</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Mage Hand -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Conjuration/Mage_Hand.html" target="_blank">Mage Hand</a></td>
+    <td>1 Action</td>
+    <td>Conjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Message -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Transmutation/Message.html" target="_blank">Message</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Mind Sliver -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Enchantment/Mind_Sliver.html" target="_blank">Mind Sliver</a></td>
+    <td>1 Action</td>
+    <td>Enchantment</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Minor Illusion -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Illusion/Minor_Illusion.html" target="_blank">Minor Illusion</a></td>
+    <td>1 Action</td>
+    <td>Illusion</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Mold Earth -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Transmutation/Mold_Earth.html" target="_blank">Mold Earth</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Poison Spray -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Conjuration/Poison_Spray.html" target="_blank">Poison Spray</a></td>
+    <td>1 Action</td>
+    <td>Conjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Prestidigitation -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Transmutation/Prestidigitation.html" target="_blank">Prestidigitation</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Primal Savagery -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Transmutation/Primal_Savagery.html" target="_blank">Primal Savagery</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Produce Flame -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Conjuration/Produce_Flame.html" target="_blank">Produce Flame</a></td>
+    <td>1 Action</td>
+    <td>Conjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Ray of Frost -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Evocation/Ray_of_Frost.html" target="_blank">Ray of Frost</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Resistance -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Abjuration/Resistance.html" target="_blank">Resistance</a></td>
+    <td>1 Action</td>
+    <td>Abjuration</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Sacred Flame -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Evocation/Sacred_Flame.html" target="_blank">Sacred Flame</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Shape Water -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Transmutation/Shape_Water.html" target="_blank">Shape Water</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Shocking Grasp -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Evocation/Shocking_Grasp.html" target="_blank">Shocking Grasp</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Spare the Dying -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Necromancy/Spare_the_Dying.html" target="_blank">Spare the Dying</a></td>
+    <td>1 Action</td>
+    <td>Necromancy</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Sword Burst -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Conjuration/Sword_Burst.html" target="_blank">Sword Burst</a></td>
+    <td>1 Action</td>
+    <td>Conjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Thaumaturgy -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Transmutation/Thaumaturgy.html" target="_blank">Thaumaturgy</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Thorn Whip -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Transmutation/Thorn_Whip.html" target="_blank">Thorn Whip</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Thunderclap -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Evocation/Thunderclap.html" target="_blank">Thunderclap</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Toll the Dead -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Necromancy/Toll_the_Dead.html" target="_blank">Toll the Dead</a></td>
+    <td>1 Action</td>
+    <td>Necromancy</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- True Strike -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Divination/True_Strike.html" target="_blank">True Strike</a></td>
+    <td>1 Action</td>
+    <td>Divination</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Vicious Mockery -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Enchantment/Vicious_Mockery.html" target="_blank">Vicious Mockery</a></td>
+    <td>1 Action</td>
+    <td>Enchantment</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Word of Radiance -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Evocation/Word_of_Radiance.html" target="_blank">Word of Radiance</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Animal Friendship -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Enchantment/Animal_Friendship.html" target="_blank">Animal Friendship</a></td>
+    <td>1 Action</td>
+    <td>Enchantment</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Armor of Agathys -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Abjuration/Armor_of_Agathys.html" target="_blank">Armor of Agathys</a></td>
+    <td>1 Action</td>
+    <td>Abjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Arms of Hadar -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Conjuration/Arms_of_Hadar.html" target="_blank">Arms of Hadar</a></td>
+    <td>1 Action</td>
+    <td>Conjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Bane -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Enchantment/Bane.html" target="_blank">Bane</a></td>
+    <td>1 Action</td>
+    <td>Enchantment</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Beast Bond -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Divination/Beast_Bond.html" target="_blank">Beast Bond</a></td>
+    <td>1 Action</td>
+    <td>Divination</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Bless -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Enchantment/Bless.html" target="_blank">Bless</a></td>
+    <td>1 Action</td>
+    <td>Enchantment</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Burning Hands -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Evocation/Burning_Hands.html" target="_blank">Burning Hands</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Catapult -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Transmutation/Catapult.html" target="_blank">Catapult</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Cause Fear -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Necromancy/Cause_Fear.html" target="_blank">Cause Fear</a></td>
+    <td>1 Action</td>
+    <td>Necromancy</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Chaos Bolt -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Evocation/Chaos_Bolt.html" target="_blank">Chaos Bolt</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Charm Person -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Enchantment/Charm_Person.html" target="_blank">Charm Person</a></td>
+    <td>1 Action</td>
+    <td>Enchantment</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Chromatic Orb -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Evocation/Chromatic_Orb.html" target="_blank">Chromatic Orb</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Color Splash -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Illusion/Color_Splash.html" target="_blank">Color Splash</a></td>
+    <td>1 Action</td>
+    <td>Illusion</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Command -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Enchantment/Command.html" target="_blank">Command</a></td>
+    <td>1 Action</td>
+    <td>Enchantment</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Comprehend Languages -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Divination/Comprehend_Languages.html" target="_blank">Comprehend Languages</a></td>
+    <td>1 Action</td>
+    <td>Divination</td>
+    <td>No</td>
+    <td>Yes</td>
+  </tr>
+  <!-- Create or Destroy Water -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Transmutation/Create_or_Destroy_Water.html" target="_blank">Create or Destroy Water</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Cure Wounds -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Evocation/Cure_Wounds.html" target="_blank">Cure Wounds</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Detect Evil and Good -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Divination/Detect_Evil_and_Good.html" target="_blank">Detect Evil and Good</a></td>
+    <td>1 Action</td>
+    <td>Divination</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Detect Magic -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Divination/Detect_Magic.html" target="_blank">Detect Magic</a></td>
+    <td>1 Action</td>
+    <td>Divination</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <!-- Detect Poison and Disease -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Divination/Detect_Poison_and_Disease.html" target="_blank">Detect Poison and Disease</a></td>
+    <td>1 Action</td>
+    <td>Divination</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <!-- Disguise Self -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Illusion/Disguise_Self.html" target="_blank">Disguise Self</a></td>
+    <td>1 Action</td>
+    <td>Illusion</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Dissonant Whispers -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Enchantment/Dissonant_Whispers.html" target="_blank">Dissonant Whispers</a></td>
+    <td>1 Action</td>
+    <td>Enchantment</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Earth Tremor -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Evocation/Earth_Tremor.html" target="_blank">Earth Tremor</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Entangle -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Conjuration/Entangle.html" target="_blank">Entangle</a></td>
+    <td>1 Action</td>
+    <td>Conjuration</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Faerie Fire -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Evocation/Faerie_Fire.html" target="_blank">Faerie Fire</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- False Life -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Necromancy/False_Life.html" target="_blank">False Life</a></td>
+    <td>1 Action</td>
+    <td>Necromancy</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Fog Cloud -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Conjuration/Fog_Cloud.html" target="_blank">Fog Cloud</a></td>
+    <td>1 Action</td>
+    <td>Conjuration</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Goodberry -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Transmutation/Goodberry.html" target="_blank">Goodberry</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Grease -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Conjuration/Grease.html" target="_blank">Grease</a></td>
+    <td>1 Action</td>
+    <td>Conjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Guiding Bolt -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Evocation/Guiding_Bolt.html" target="_blank">Guiding Bolt</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Heroism -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Enchantment/Heroism.html" target="_blank">Heroism</a></td>
+    <td>1 Action</td>
+    <td>Enchantment</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Ice Knife -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Conjuration/Ice_Knife.html" target="_blank">Ice Knife</a></td>
+    <td>1 Action</td>
+    <td>Conjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Illusory Script -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Illusion/Illusory_Script.html" target="_blank">Illusory Script</a></td>
+    <td>1 Action</td>
+    <td>Illusion</td>
+    <td>No</td>
+    <td>Yes</td>
+  </tr>
+  <!-- Inflict Wounds -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Necromancy/Inflict_Wounds.html" target="_blank">Inflict Wounds</a></td>
+    <td>1 Action</td>
+    <td>Necromancy</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Jump -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Transmutation/Jump.html" target="_blank">Jump</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Longstrider -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Transmutation/Longstrider.html" target="_blank">Longstrider</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Mage Armor -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Abjuration/Mage_Armor.html" target="_blank">Mage Armor</a></td>
+    <td>1 Action</td>
+    <td>Abjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Magic Missile -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Evocation/Magic_Missile.html" target="_blank">Magic Missile</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Protection from Evil and Good -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Abjuration/Protection_from_Evil_and_Good.html" target="_blank">Protection from Evil and Good</a></td>
+    <td>1 Action</td>
+    <td>Abjuration</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Purify Food and Drink -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Transmutation/Purify_Food_and_Drink.html" target="_blank">Purify Food and Drink</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>Yes</td>
+  </tr>
+  <!-- Ray of Sickness -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Necromancy/Ray_of_Sickness.html" target="_blank">Ray of Sickness</a></td>
+    <td>1 Action</td>
+    <td>Necromancy</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Silent Image -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Illusion/Silent_Image.html" target="_blank">Silent Image</a></td>
+    <td>1 Action</td>
+    <td>Illusion</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Sleep -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Enchantment/Sleep.html" target="_blank">Sleep</a></td>
+    <td>1 Action</td>
+    <td>Enchantment</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Speak with Animals -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Divination/Speak_with_Animals.html" target="_blank">Speak with Animals</a></td>
+    <td>1 Action</td>
+    <td>Divination</td>
+    <td>No</td>
+    <td>Yes</td>
+  </tr>
+  <!-- Tasha's Caustic Brew -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Evocation/Tasha's_Caustic_Brew.html" target="_blank">Tasha's Caustic Brew</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Tasha's Hideous Laughter -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Enchantment/Tasha's_Hideous_Laughter.html" target="_blank">Tasha's Hideous Laughter</a></td>
+    <td>1 Action</td>
+    <td>Enchantment</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Tenser's Floating Disk -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Conjuration/Tenser's_Floating_Disk.html" target="_blank">Tenser's Floating Disk</a></td>
+    <td>1 Action</td>
+    <td>Conjuration</td>
+    <td>No</td>
+    <td>Yes</td>
+  </tr>
+  
+  <!-- Thunderwave -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Evocation/Thunderwave.html" target="_blank">Thunderwave</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Unseen Servant -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Conjuration/Unseen_Servant.html" target="_blank">Unseen Servant</a></td>
+    <td>1 Action</td>
+    <td>Conjuration</td>
+    <td>No</td>
+    <td>Yes</td>
+  </tr>
+  <!-- Witch Bolt -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Evocation/Witch_Bolt.html" target="_blank">Witch Bolt</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- 2nd Level Spells --> 
+  <!-- Aganazzar's Scorcher-->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Evocation/Aganazzar's_Scorcher.html" target="_blank">Aganazzar's Scorcher</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Aid -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Abjuration/Aid.html" target="_blank">Aid</a></td>
+    <td>1 Action</td>
+    <td>Abjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Alter Self -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Transmutation/Alter_Self.html" target="_blank">Alter Self</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Animal Messenger -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Enchantment/Animal_Messenger.html" target="_blank">Animal Messenger</a></td>
+    <td>1 Action</td>
+    <td>Enchantment</td>
+    <td>No</td>
+    <td>Yes</td>
+  </tr>
+  
+  <!-- Arcane Lock -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Abjuration/Arcane_Lock.html" target="_blank">Arcane Lock</a></td>
+    <td>1 Action</td>
+    <td>Abjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Barkskin -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Transmutation/Barkskin.html" target="_blank">Barkskin</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Beast Sense -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Divination/Beast_Sense.html" target="_blank">Beast Sense</a></td>
+    <td>1 Action</td>
+    <td>Divination</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  
+  <!-- Blindness/Deafness -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Necromancy/Blindness/Deafness.html" target="_blank">Blindness/Deafness</a></td>
+    <td>1 Action</td>
+    <td>Necromancy</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Blur -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Illusion/Blur.html" target="_blank">Blur</a></td>
+    <td>1 Action</td>
+    <td>Illusion</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Calm Emotions -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Enchantment/Calm_Emotions.html" target="_blank">Calm Emotions</a></td>
+    <td>1 Action</td>
+    <td>Enchantment</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Cloud of Daggers -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Conjuration/Cloud_of_Daggers.html" target="_blank">Cloud of Daggers</a></td>
+    <td>1 Action</td>
+    <td>Conjuration</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Continual Flame -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Evocation/Continual_Flame.html" target="_blank">Continual Flame</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Cordon of Arrows -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Transmutation/Cordon_of_Arrows.html" target="_blank">Cordon of Arrows</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Crown of Madness -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Enchantment/Crown_of_Madness.html" target="_blank">Crown of Madness</a></td>
+    <td>1 Action</td>
+    <td>Enchantment</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Darkness -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Evocation/Darkness.html" target="_blank">Darkness</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Darkvision -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Transmutation/Darkvision.html" target="_blank">Darkvision</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Detect Thoughts -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Divination/Detect_Thoughts.html" target="_blank">Detect Thoughts</a></td>
+    <td>1 Action</td>
+    <td>Divination</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Dust Devil -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Conjuration/Dust_Devil.html" target="_blank">Dust Devil</a></td>
+    <td>1 Action</td>
+    <td>Conjuration</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Earthbind -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Transmutation/Earthbind.html" target="_blank">Earthbind</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Enhance Ability -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Transmutation/Enhance_Ability.html" target="_blank">Enhance Ability</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Enlarge/Reduce -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Transmutation/Enlarge/Reduce.html" target="_blank">Enlarge/Reduce</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Enthrall -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Enchantment/Enthrall.html" target="_blank">Enthrall</a></td>
+    <td>1 Action</td>
+    <td>Enchantment</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Find Traps -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Divination/Find_Traps.html" target="_blank">Find Traps</a></td>
+    <td>1 Action</td>
+    <td>Divination</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Flaming Sphere -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Conjuration/Flaming_Sphere.html" target="_blank">Flaming Sphere</a></td>
+    <td>1 Action</td>
+    <td>Conjuration</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Gentle Repose -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Necromancy/Gentle_Repose.html" target="_blank">Gentle Repose</a></td>
+    <td>1 Action</td>
+    <td>Necromancy</td>
+    <td>No</td>
+    <td>Yes</td>
+  </tr>
+  
+  <!-- Gust of Wind -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Evocation/Gust_of_Wind.html" target="_blank">Gust of Wind</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Heat Metal -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Transmutation/Heat_Metal.html" target="_blank">Heat Metal</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Hold Person -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Enchantment/Hold_Person.html" target="_blank">Hold Person</a></td>
+    <td>1 Action</td>
+    <td>Enchantment</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Invisibility -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Illusion/Invisibility.html" target="_blank">Invisibility</a></td>
+    <td>1 Action</td>
+    <td>Illusion</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Knock -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Transmutation/Knock.html" target="_blank">Knock</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Lesser Restoration -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Abjuration/Lesser_Restoration.html" target="_blank">Lesser Restoration</a></td>
+    <td>1 Action</td>
+    <td>Abjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Levitate -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Transmutation/Levitate.html" target="_blank">Levitate</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Locate Animals or Plants -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Divination/Locate_Animals_or_Plants.html" target="_blank">Locate Animals or Plants</a></td>
+    <td>1 Action</td>
+    <td>Divination</td>
+    <td>No</td>
+    <td>Yes</td>
+  </tr>
+  
+  <!-- Locate Object -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Divination/Locate_Object.html" target="_blank">Locate Object</a></td>
+    <td>1 Action</td>
+    <td>Divination</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Maximilian's Earthen Grasp -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Transmutation/Maximilian's_Earthen_Grasp.html" target="_blank">Maximilian's Earthen Grasp</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Melf's Acid Arrow -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Evocation/Melf's_Acid_Arrow.html" target="_blank">Melf's Acid Arrow</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Mind Spike -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Divination/Mind_Spike.html" target="_blank">Mind Spike</a></td>
+    <td>1 Action</td>
+    <td>Divination</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Mirror Image -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Illusion/Mirror_Image.html" target="_blank">Mirror Image</a></td>
+    <td>1 Action</td>
+    <td>Illusion</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Moonbeam -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Evocation/Moonbeam.html" target="_blank">Moonbeam</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Nathair's Mischief -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Illusion/Nathair's_Mischief.html" target="_blank">Nathair's Mischief</a></td>
+    <td>1 Action</td>
+    <td>Illusion</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Nystul's Magic Aura -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Illusion/Nystul's_Magic_Aura.html" target="_blank">Nystul's Magic Aura</a></td>
+    <td>1 Action</td>
+    <td>Illusion</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Pass without Trace -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Abjuration/Pass_without_Trace.html" target="_blank">Pass without Trace</a></td>
+    <td>1 Action</td>
+    <td>Abjuration</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Phantasmal Force -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Illusion/Phantasmal_Force.html" target="_blank">Phantasmal Force</a></td>
+    <td>1 Action</td>
+    <td>Illusion</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Protection from Poison -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Abjuration/Protection_from_Poison.html" target="_blank">Protection from Poison</a></td>
+    <td>1 Action</td>
+    <td>Abjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Pyrotechnics -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Transmutation/Pyrotechnics.html" target="_blank">Pyrotechnics</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Ray of Enfeeblement -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Necromancy/Ray_of_Enfeeblement.html" target="_blank">Ray of Enfeeblement</a></td>
+    <td>1 Action</td>
+    <td>Necromancy</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Rime's Binding Ice -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Evocation/Rime's_Binding_Ice.html" target="_blank">Rime's Binding Ice</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Rope Trick -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Transmutation/Rope_Trick.html" target="_blank">Rope Trick</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Scorching Ray -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Evocation/Scorching_Ray.html" target="_blank">Scorching Ray</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- See Invisibility -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Divination/See_Invisibility.html" target="_blank">See Invisibility</a></td>
+    <td>1 Action</td>
+    <td>Divination</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Shatter -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Evocation/Shatter.html" target="_blank">Shatter</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Silence -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Illusion/Silence.html" target="_blank">Silence</a></td>
+    <td>1 Action</td>
+    <td>Illusion</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  
+  <!-- Skywrite -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Transmutation/Skywrite.html" target="_blank">Skywrite</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  
+  <!-- Snilloc's Snowball Swarm -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Evocation/Snilloc's_Snowball_Swarm.html" target="_blank">Snilloc's Snowball Swarm</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Spider Climb -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Transmutation/Spider_Climb.html" target="_blank">Spider Climb</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Spike Growth -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Transmutation/Spike_Growth.html" target="_blank">Spike Growth</a></td>
+    <td>1 Action</td>
+    <td>Transmutation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <!-- Suggestion -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Enchantment/Suggestion.html" target="_blank">Suggestion</a></td>
+    <td>1 Action</td>
+    <td>Enchantment</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Summon Beast -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Conjuration/Summon_Beast.html" target="_blank">Summon Beast</a></td>
+    <td>1 Action</td>
+    <td>Conjuration</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Tasha's Mind Whip -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Enchantment/Tasha's_Mind_Whip.html" target="_blank">Tasha's Mind Whip</a></td>
+    <td>1 Action</td>
+    <td>Enchantment</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Warding Bond -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Abjuration/Warding_Bond.html" target="_blank">Warding Bond</a></td>
+    <td>1 Action</td>
+    <td>Abjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Warding Wind -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Evocation/Warding_Wind.html" target="_blank">Warding Wind</a></td>
+    <td>1 Action</td>
+    <td>Evocation</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Web -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Conjuration/Web.html" target="_blank">Web</a></td>
+    <td>1 Action</td>
+    <td>Conjuration</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  
+  <!-- Zone of Truth -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Enchantment/Zone_of_Truth.html" target="_blank">Zone of Truth</a></td>
+    <td>1 Action</td>
+    <td>Enchantment</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Mending -->
+  <tr>
+    <td>Cantrip</td>
+    <td><a href="Schools/Transmutation/Mending.html" target="_blank">Mending</a></td>
+    <td>1 Minute</td>
+    <td>Transmutation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- 1 Minute --> 
+  <!-- Alarm -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Abjuration/Alarm.html" target="_blank">Alarm</a></td>
+    <td>1 Minute</td>
+    <td>Abjuration</td>
+    <td>No</td>
+    <td>Yes</td>
+  </tr>
+  <!-- Identify -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Divination/Identify.html" target="_blank">Identify</a></td>
+    <td>1 Minute</td>
+    <td>Divination</td>
+    <td>No</td>
+    <td>Yes</td>
+  </tr>
+  <!-- Snare -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Abjuration/Snare.html" target="_blank">Snare</a></td>
+    <td>1 Minute</td>
+    <td>Abjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Augury -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Divination/Augury.html" target="_blank">Augury</a></td>
+    <td>1 Minute</td>
+    <td>Divination</td>
+    <td>No</td>
+    <td>Yes</td>
+  </tr>
+  <!-- Magic Mouth -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Illusion/Magic_Mouth.html" target="_blank">Magic Mouth</a></td>
+    <td>1 Minute</td>
+    <td>Illusion</td>
+    <td>No</td>
+    <td>Yes</td>
+  </tr>
+  <!-- 10 Minutes --> 
+  <!-- Find Steed -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Conjuration/Find_Steed.html" target="_blank">Find Steed</a></td>
+    <td>10 Minutes</td>
+    <td>Conjuration</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- Prayer of Healing -->
+  <tr>
+    <td>2</td>
+    <td><a href="Schools/Evocation/Prayer_of_Healing.html" target="_blank">Prayer of Healing</a></td>
+    <td>10 Minutes</td>
+    <td>Evocation</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <!-- 1 Hour --> 
+  <!-- Ceremony -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Abjuration/Ceremony.html" target="_blank">Ceremony</a></td>
+    <td>1 Hour</td>
+    <td>Abjuration</td>
+    <td>No</td>
+    <td>Yes</td>
+  </tr>
+  <!-- Find Familiar -->
+  <tr>
+    <td>1</td>
+    <td><a href="Schools/Conjuration/Find_Familiar.html" target="_blank">Find Familiar</a></td>
+    <td>1 Hour</td>
+    <td>Conjuration</td>
+    <td>No</td>
+    <td>Yes</td>
+  </tr>
+</table>
+<h2 class="centerText"><a href="#Spells"> Back to top </a></h2>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</body>
+</html>
