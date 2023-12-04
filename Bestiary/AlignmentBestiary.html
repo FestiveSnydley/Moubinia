@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<meta name="description" content="Homepage of the Moubinia website">
+<title>Alignment Bestiary</title>
+<link rel="stylesheet" type="text/css" href="../CCS/mystyle.css">
+</head>
+<body>
+<nav> <a href="../Homepage.html">Home</a> |Bestiary |<a href="../World/Locations.html">Locations</a> |<a href="../Equipment/Equipment.html">Equipment</a> |<a href="../Magical_Items/Magical_Items.html">Magical Items</a> |<a href="../Spells/Spells.html">Spells</a> |<a href="../Feats/Feats.html">Feats</a></nav>
+<h1>Ere's Bestiary</h1>
+<p><u>NOTE: DO NOT USE THIS TO METAGAMING. THIS IS FOR IMMERSIVE FUN, AND FOR A QUICK ACCESS GUIDE FOR BOTH THE DM, AND FOR ANYONE WHO SUMMONS/TAMES CREATURES.</u> Click on a heading to change how the table is sorted.</p>
+  <!-- Calls the tableSort function-->
+<script src="../Javascript/D&D.js"></script>
+<input type="text" id="bestiarySearch" onkeyup="tableSort()" placeholder="Enter creature name">
+<p id="filteredResults"></p>
+<table id="center">
+  <!-- Bestiary Table Heading -->
+  <tr>
+    <th><a href="DefaultBestiary.html">No.</a></th>
+    <th><a href="NameBestiary.html">Creature Name</a></th>
+    <th><a href="DefaultBestiary.html">CR</a></th>
+    <th><a href="ACBestiary.html">AC</a></th>
+    <th><a href="SpeedBestiary.html">Speed</a></th>
+    <th><a href="TypeBestiary.html">Type</a></th>
+    <th><a href="SizeBestiary.html">Size</a></th>
+    <th>Alignment</th>
+  </tr>
+  <!-- Giant Lizard -->
+  <tr>
+    <td>137</td>
+    <td><a href="Creatures/Giant_Lizard/Giant_Lizard.html" target="_blank">Giant Lizard</a></td>
+    <td>1/4</td>
+    <td>12</td>
+    <td>30ft/30ft climb</td>
+    <td>Beast</td>
+    <td>Large</td>
+    <td>Unaligned</td>
+  </tr>
+  <!-- Vulture -->
+  <tr>
+    <td>74</td>
+    <td><a href="Creatures/Vulture/Vulture.html" target="_blank">Vulture</a></td>
+    <td>0</td>
+    <td>10</td>
+    <td>10ft/50ft Fly</td>
+    <td>Beast</td>
+    <td>Medium</td>
+    <td>Unaligned</td>
+  </tr>
+  <!-- Goblin -->
+  <tr>
+    <td>142</td>
+    <td><a href="Creatures/Goblin/Goblin.html" target="_blank">Goblin</a></td>
+    <td>1/4</td>
+    <td>15</td>
+    <td>30ft</td>
+    <td>Humanoid</td>
+    <td>Small</td>
+    <td>Neutral Evil</td>
+  </tr>
+  <!-- Merrow -->
+  <tr>
+    <td>333</td>
+    <td><a href="Creatures/Merrow/Merrow.html" target="_blank">Merrow</a></td>
+    <td>2</td>
+    <td>13</td>
+    <td>10ft/40ft Swim</td>
+    <td>Monstrosity</td>
+    <td>Large</td>
+    <td>Chaotic Evil</td>
+  </tr>
+</table>
+</body>
+</html>
