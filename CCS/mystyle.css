@@ -185,9 +185,9 @@ body {
     background-image: url('../Backgrounds/PHBBackground.webp');
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 100vh;
+    min-height: 300vh;
     min-width: 100vw;
-    height: 100vh;
+    height: 300vh;
     width: 100vw;
   }
 }
